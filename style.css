@@ -33,7 +33,9 @@ body{
 }
 .hire-text-div{
     width: 25%;
-    border: 2px solid red;
+    
+    height: 410px;
+    float: left;
     
     
 }
@@ -43,4 +45,24 @@ body{
     font-size: 16px;
     color: #3E3E3E;
     font-weight: 900;
+    line-height: 25px;
+}
+
+.hire-a{
+    text-decoration: none;
+    color: #FFFFFF;
+    background-image: linear-gradient(100deg, #FF8063, #FF8063);
+    padding: 20px 60px ;
+    border-radius: 10px;
+}
+
+.profile1{
+    width: 100%;
+}
+
+.image-div{
+    width: 40%;
+    margin: 0%;
+    float: right;
+    margin-right: 20%;
 }
