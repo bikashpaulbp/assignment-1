@@ -118,3 +118,65 @@ body{
     border-radius: 5px;
 }
 
+.project-h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.project-section{
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 600px;
+    margin-right: 10%;
+    
+}
+
+.project1-div{
+    width: 370px;
+    height: 374px;
+    
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    box-shadow: 1px 1px 10px rgb(212, 212, 212) ;
+    border-radius: 20px;
+}
+
+.project2-div{
+    width: 370px;
+    height: 374px;
+    float: left;
+    padding-right: 10px;
+    
+    margin-right: 10px;
+    box-shadow: 1px 1px 10px rgb(212, 212, 212) ;
+    border-radius: 20px;
+}
+
+.project3-div{
+    width: 370px;
+    height: 374px;
+    float: left;
+    
+     box-shadow: 1px 1px 10px rgb(212, 212, 212) ;
+    border-radius: 20px;
+}
+
+.project1-img{
+    width: 339px;
+    height: 213px;
+}
+
+.project2-img{
+    width: 339px;
+    height: 213px;
+    margin-left: 5%;
+}
+
+.project3-img{
+    width: 339px;
+    height: 213px;
+    margin-left: 5%;
+}
