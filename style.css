@@ -4,7 +4,7 @@ body{
 
 .nav-a{
     text-decoration: none;
-    color: rgb(58, 58, 58);
+    color: #3C3C3C;
     padding: 1%;
 }
 
@@ -17,4 +17,30 @@ body{
 }
 .nav-section{
     height: 70px;
+}
+
+.hire-section{
+    margin-left: 10%;
+
+}
+
+.hire-h1{
+    font-family:  'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 20px;
+
+}
+.hire-text-div{
+    width: 25%;
+    border: 2px solid red;
+    
+    
+}
+
+.hire-p{
+    text-align: justify;
+    font-size: 16px;
+    color: #3E3E3E;
+    font-weight: 900;
 }
