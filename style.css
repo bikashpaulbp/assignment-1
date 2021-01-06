@@ -109,3 +109,12 @@ body{
     margin-right: 10%;
     
 }
+
+.download-a{
+    text-decoration: none;
+    color: #FFFFFF;
+    background-image: linear-gradient(100deg, #FF8063, #FF8063);
+    padding: 20px 50px ;
+    border-radius: 5px;
+}
+
