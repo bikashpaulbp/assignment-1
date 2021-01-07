@@ -1,3 +1,10 @@
+.maindiv{
+    border: 5px solid gray;
+}
+
+
+
+
 body{
     font-family: 'Roboto', sans-serif;
 }
