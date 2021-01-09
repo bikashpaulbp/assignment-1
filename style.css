@@ -227,7 +227,7 @@ body{
 }
 
 .experience-div{
-    margin-left: 10%;
+    
     text-align: center;
     margin-bottom: 15%;
 }
@@ -237,6 +237,15 @@ body{
     width: 140px;
     box-shadow: 10px 10px 20px rgb(209, 209, 209);
     
+}
+
+.expert-icon:hover{
+    box-shadow: 10px 10px 20px rgb(0, 255, 85);
+    transition-property:box-shadow;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+
 }
 
 footer{
